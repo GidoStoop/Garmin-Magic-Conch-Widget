@@ -1,0 +1,21 @@
+<strings>
+    <string id="AppName">Caracola Mágica</string>
+    <string id="a">¡No, no esta vez!</string>
+    <string id="b">¡Por favor, intenta\nde nuevo!</string>
+    <string id="c">¡Sí, por supuesto!</string>
+    <string id="d">No, no en esta vida</string>
+    <string id="e">¡En tus sueños!</string>
+    <string id="f">Las estrellas no están\nalineadas para eso</string>
+    <string id="g">Solo si Patricio\nestá de acuerdo</string>
+    <string id="h">Es un secreto</string>
+    <string id="i">Lo sabrás a su\ndebido tiempo</string>
+    <string id="j">Sí, pero no hoy</string>
+    <string id="k">Sí, ¡y va a ser genial!</string>
+    <string id="l">Sí, el universo aprueba</string>
+    <string id="m">¡Sí, y te va a encantar!</string>
+    <string id="n">Quizás algún día</string>
+    <string id="o">¡La respuesta es sí!</string>
+    <string id="p">¡Sí, mil veces sí!</string>
+    <string id="y">1. Haz tu pregunta</string>
+    <string id="z">2. ¡Sacúdela para\nobtener sabiduría!</string>
+</strings>

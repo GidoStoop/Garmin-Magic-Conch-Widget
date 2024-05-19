@@ -1,0 +1,21 @@
+<strings>
+    <string id="AppName">Coquillage Magique</string>
+    <string id="a">Non, pas cette fois-ci!</string>
+    <string id="b">Veuillez réessayer!</string>
+    <string id="c">Oui, bien sûr!</string>
+    <string id="d">Non, pas dans\ncette vie</string>
+    <string id="e">Dans tes rêves!</string>
+    <string id="f">Les étoiles ne sont pas\nalignées pour ça</string>
+    <string id="g">Seulement si Patrick\nest d'accord</string>
+    <string id="h">C'est un secret</string>
+    <string id="i">Tu le sauras en\ntemps voulu</string>
+    <string id="j">Oui, mais pas\naujourd'hui</string>
+    <string id="k">Oui, et ça va\nêtre génial!</string>
+    <string id="l">Oui, l'univers approuve</string>
+    <string id="m">Oui, et tu vas adorer!</string>
+    <string id="n">Peut-être un jour</string>
+    <string id="o">La réponse est oui!</string>
+    <string id="p">Oui, mille fois oui!</string>
+    <string id="y">1. Posez votre question</string>
+    <string id="z">2. Secouez pour\nobtenir la sagesse!</string>
+</strings>

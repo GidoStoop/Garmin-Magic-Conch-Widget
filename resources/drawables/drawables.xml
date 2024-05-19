@@ -1,0 +1,16 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="drawableConch" background="Gfx.COLOR_DK_BLUE" >
+        <shape type="rectangle" x="0" y="0" width="100%" height="100%" color="Gfx.COLOR_DK_BLUE" />
+        <bitmap id="blue_flower_1" x="10%" y="10%" filename="../drawables/blue_flower.png" />
+        <bitmap id="blue_flower_2" x="40%" y="65%" filename="../drawables/blue_flower.png" />
+        <bitmap id="blue_flower_3" x="75%" y="30%" filename="../drawables/blue_flower.png" />
+        <bitmap id="red_flower_1" x="60%" y="20%" filename="../drawables/red_flower.png" />
+        <bitmap id="red_flower_2" x="20%" y="60%" filename="../drawables/red_flower.png" />
+        <bitmap id="yellow_flower_1" x="15%" y="80%" filename="../drawables/yellow_flower.png" />
+        <bitmap id="yellow_flower_2" x="80%" y="70%" filename="../drawables/yellow_flower.png" />
+        <bitmap id="yellow_flower_3" x="0%" y="40%" filename="../drawables/yellow_flower.png" />
+        <bitmap id="yellow_flower_4" x="45%" y="0%" filename="../drawables/yellow_flower.png" />
+        <bitmap id="conch" x="center" y="center" filename="../drawables/magic_conch-removebg.png" />
+    </drawable-list>
+</drawables>

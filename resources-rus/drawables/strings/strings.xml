@@ -1,0 +1,21 @@
+<strings>
+    <string id="AppName">Волшебная раковина</string>
+    <string id="a">Нет, не в этот раз!</string>
+    <string id="b">Пожалуйста, попробуйте\nеще раз!</string>
+    <string id="c">Да, конечно!</string>
+    <string id="d">Нет, не в этой жизни</string>
+    <string id="e">В твоих мечтах!</string>
+    <string id="f">Звезды не сошлись\nдля этого</string>
+    <string id="g">Только если Патрик\nсогласится</string>
+    <string id="h">Это секрет</string>
+    <string id="i">Ты узнаешь в\nсвое время</string>
+    <string id="j">Да, но не сегодня</string>
+    <string id="k">Да, и это будет\nзамечательно!</string>
+    <string id="l">Да, вселенная\nсогласна</string>
+    <string id="m">Да, и тебе это\nпонравится!</string>
+    <string id="n">Может быть,\nкогда-нибудь</string>
+    <string id="o">Ответ - да!</string>
+    <string id="p">Да, тысячу раз да!</string>
+    <string id="y">1. Задай свой вопрос</string>
+    <string id="z">2. Встряхни для\nмудрости!</string>
+</strings>
